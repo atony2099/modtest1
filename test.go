@@ -1,4 +1,4 @@
-package gomodtest
+package modtest
 
 import (
 	"fmt"
