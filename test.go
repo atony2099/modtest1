@@ -1,4 +1,4 @@
-package modtest
+package modtest1
 
 import (
 	"fmt"
